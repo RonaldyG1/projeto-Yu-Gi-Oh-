@@ -10,7 +10,7 @@ cartoes.forEach(cartao => {
         // virar o cartão
         cartao.classList.toggle("virar");
         // mostrar o fundo da carta
-        cartavirada.classList.toggle("mostar-fundo-carta");
+        cartavirada.classList.toggle("mostrar-fundo-carta");
     });
 });
 
